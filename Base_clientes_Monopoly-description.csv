@@ -1,0 +1,62 @@
+﻿Variable;Transformación;Valor;Descripcion
+CORRELATIVO;Ninguna;518050;Identificador cliente
+Region;Ninguna;13;Region de Residencia
+Renta;Ninguna;NULL;Renta del cliente
+Sexo;Ninguna;M;Sexo
+Subsegmento;Ninguna;151;Subsegmento
+Edad;Ninguna;39;Edad
+Adicional;Ninguna;0;Indicador de Tenecia de TC adicionales
+Antiguedad;Ninguna;78;Antigüedad del cliente (meses)
+CambioPin;Ninguna;NULL;Indicador del cambio de clave secreta de la tarjeta
+Consumo;Ninguna;0;Indicador de Credito de Consumo
+Debito;Ninguna;1;Indicador de Tenecia de TD
+Ctacte;Ninguna;1;Indicador de Cuenta Corriente
+Cuentas;Ninguna;1;Numero de cuentas que tiene el cliente
+Hipotecario;Ninguna;0;Indicador de Credito Hipotecario
+Internauta;Ninguna;1;Indicador de cliente Internauta que usa la web Monopoly
+Monoproducto;Ninguna;0;Indicador de si el cliente es solo poseedor de una TC
+TC;Ninguna;1;Numero de TC que tiene el cliente
+Dualidad;Ninguna;0;Indicador de Dualidad (Cliente es dual si tiene 2 o mas TC)
+CUPO_L1;Ninguna;1800000;Cupo de la tarjeta credito para compras nacionales
+CUPO_MX;Ninguna;3750;Cupo de la tarjeta credito para compras internacionales
+CUPO_L2;Ninguna;1;Cupo de la tarjeta credito para avances en cuotas
+Col_T12;promedio;0;Colocacion del cliente en TC en el mes X
+ColL1TE_T12;;0;Revolving del cliente en TC en el mes X
+EeccInt_T12;promedio;0;Monto internacional exigido en el estado de cuenta del cliente en el mes X
+EeccNac_T12;promedio;-12178;Monto nacional exigido en el estado de cuenta del cliente en el mes X
+Fac_T12;Promedio;0;Monto facturado por el cliente en TC en el mes X
+FacAI_T12;Promedio;0;Monto facturado en avances internacionales por el cliente en TC en el mes X
+FacAN_T12;Promedio;0;Monto facturado en avances nacionales por el cliente en TC en el mes X
+FacCCOT_T12;Promedio;0;Monto facturado en compras en cuotas con tasa por el cliente en TC en el mes X
+FacCCPC_T12;Promedio;0;Monto facturado en compras en cuotas precio contado por el cliente en TC en el mes X
+FacCI_T12;Promedio;0;Monto facturado en compras internacionales por el cliente en TC en el mes X
+FacCN_T12;Promedio;0;Monto facturado en compras nacionales por el cliente en TC en el mes X
+FacCOL_T12;Promedio;0;Monto facturado en avances en cuotas por el cliente en TC en el mes X
+FacDebAtm_T12;Promedio;800000;Monto facturado en avances por el cliente en TD en el mes X
+FacDebCom_T12;Promedio;221730;Monto facturado en compras por el cliente en TD en el mes X
+FacPAT_T12;Promedio;0;Monto facturado en PAT por el cliente en TC en el mes X
+FlgAct_T12;Suma meses activos;0;Indicador de actividad en el mes X en la TC
+FlgActAI_T12;Suma meses activos;0;Indicador de actividad en avances internacionales en el mes X en la TC
+FlgActAN_T12;Suma meses activos;0;Indicador de actividad en avances nacionales en el mes X en la TC
+FlgActCCOT_T12;Suma meses activos;0;Indicador de actividad en compras nacionales en cuotas con tasa en el mes X en la TC
+FlgActCCPC_T12;Suma meses activos;0;Indicador de actividad en compras nacionales en cuotas precio contado en el mes X en la TC
+FlgActCI_T12;Suma meses activos;0;Indicador de actividad en compras internacionales en el mes X en la TC
+FlgActCN_T12;Suma meses activos;0;Indicador de actividad en compras nacionales en el mes X en la TC
+FlgActCOL_T12;Suma meses activos;0;Indicador de actividad en avances en cuotas con tasa en el mes X en la TC
+FlgActPAT_T12;Suma meses activos;0;Indicador de actividad en PAT en el mes X en la TC
+PagoInt_T12;promedio;0;Monto de pagos de deuda internacional del cliente en el mes X
+PagoNac_T12;promedio;25000;Monto de pagos de deuda nacional del cliente en el mes X
+Txs_T12;Suma ;0;Numero de transacciones realizados por el cliente en TC en el mes X
+TxsAI_T12;Suma ;0;Numero de transacciones en avances internacionales realizados por el cliente en TC en el mes X
+TxsAN_T12;Suma ;0;Numero de transacciones en avances nacionales realizados por el cliente en TC en el mes X
+TxsCCOT_T12;Suma ;0;Numero de transacciones en compras en cuotas con tasa realizados por el cliente en TC en el mes X
+TxsCCPC_T12;Suma ;0;Numero de transacciones en compras en cuotas precio contado realizados por el cliente en TC en el mes X
+TxsCI_T12;Suma ;0;Numero de transacciones en compras internacionales realizados por el cliente en TC en el mes X
+TxsCN_T12;Suma ;0;Numero de transacciones en compras nacionales realizados por el cliente en TC en el mes X
+TxsCOL_T12;Suma ;0;Numero de transacciones en avances en cuotas por el cliente en TC en el mes X
+TxsDebAtm_T12;Suma ;5;Numero de transacciones en avances realizados por el cliente en TD en el mes X
+TxsDebCom_T12;Suma ;9;Numero de transacciones en compras realizados por el cliente en TD en el mes X
+TxsPAT_T12;Suma ;0;Numero de transacciones en PAT realizados por el cliente en TC en el mes X
+UsoL1_T12;Promedio;-12178;Monto de deuda en la linea de compras en la TC en el mes X
+UsoL2_T12;Promedio;0;Monto de deuda en la linea de avances en cuotas en la TC en el mes X
+UsoLI_T12;Promedio;0;Monto de deuda en la linea de compras internacionales en la TC en el mes X
